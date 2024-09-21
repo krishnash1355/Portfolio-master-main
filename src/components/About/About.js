@@ -47,7 +47,7 @@ function About() {
         <Toolstack />
         
         <h1 className="project-heading">
-          <strong className="purple">Competative Programming</strong> Profiles
+          <strong className="purple">Competitive Programming</strong> Profiles
         </h1>
         <Competitive />
 
